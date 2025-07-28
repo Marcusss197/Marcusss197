@@ -38,7 +38,6 @@
       <strong>⚙️ Back-End</strong>
     </p>
     <p align="left">
-      
       <img src="https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=nodedotjs" alt="Node.js">
       <img src="https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&logo=nestjs&logoColor=e0234e" alt="NestJS">
       <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java" alt="Java">

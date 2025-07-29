@@ -28,8 +28,6 @@
         <img src="https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699" alt="SASS">
         <img src="https://img.shields.io/badge/-StyledComponents-05122A?style=for-the-badge&logo=styledcomponents&logoColor=CC6699" alt="Styled Components">
         <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular" alt="Angular">
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript">
-      <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=2F6DB9" alt="TypeScript">
       
   </div>
   
